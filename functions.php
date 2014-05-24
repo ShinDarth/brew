@@ -76,7 +76,7 @@ require_once( 'library/custom-post-type.php' ); // you can disable this if you l
 4. library/translation/translation.php
 	- adding support for other languages
 */
-// require_once( 'library/translation/translation.php' ); // this comes turned off by default
+ require_once( 'library/translation/translation.php' );
 
 /************* THUMBNAIL SIZE OPTIONS *************/
 
