@@ -4031,7 +4031,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #333333;
 }
 .navbar-inverse {
-  background-color: #222222;
+  background-image: linear-gradient(to bottom, #3C3C3C 0px, #222 100%);
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
